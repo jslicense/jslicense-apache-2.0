@@ -1,0 +1,16 @@
+{
+  "name": "jslicense-apache-2.0",
+  "description": "the Apache License, version 2.0 License",
+  "version": "0.0.0-prerelease",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-apache-2.0/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "Apache-2.0",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "jslicense/apache-2.0"
+}
